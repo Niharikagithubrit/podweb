@@ -1,0 +1,65 @@
+.podbtn {
+    width: 162.5px;
+    height: 49px;
+    background: #FAAF40;
+    border-radius: 50px;
+    text-align: center;
+    color: #fff;
+    line-height: 49px;
+}
+
+.navbar_block {
+    padding-top: 27px;
+}
+
+.navbar_block .container {
+    border-bottom: 1px solid #00000033;
+    padding-bottom: 28px;
+}
+
+.navbar_block a.nav-link {
+    color: #000000 !important;
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 500;
+}
+
+.navbar_block ul {
+    gap: 16px;
+}
+
+.navbar-brand img {
+    width: 141.57px;
+    height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**************Media Query Start *************/
+@media (max-width: 576px) {
+    .navbar_block {
+      padding-top: 5px !important;
+  }
+    .navbar_block .container {
+      padding-bottom: 5px !important;
+  }
+    div#mynavbar {
+        padding-bottom: 20px;
+    }
+    div#mynavbar .podbtn{
+        margin-top: 20px;
+    }
+  }
+/**************Media Query End *************/
