@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/podweb/static/css/main.7a18f74c.css",
+    "main.js": "/podweb/static/js/main.7c3f3d5e.js",
+    "static/js/787.71bd3b06.chunk.js": "/podweb/static/js/787.71bd3b06.chunk.js",
+    "static/media/slick.svg": "/podweb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/podweb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/podweb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/podweb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/podweb/index.html",
+    "main.7a18f74c.css.map": "/podweb/static/css/main.7a18f74c.css.map",
+    "main.7c3f3d5e.js.map": "/podweb/static/js/main.7c3f3d5e.js.map",
+    "787.71bd3b06.chunk.js.map": "/podweb/static/js/787.71bd3b06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a18f74c.css",
+    "static/js/main.7c3f3d5e.js"
+  ]
+}
